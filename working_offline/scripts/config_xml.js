@@ -1,0 +1,50 @@
+var TSC = TSC || {};
+
+TSC.embedded_config_xml = '<x:xmpmeta tsc:version="2.0.1" xmlns:x="adobe:ns:meta/" xmlns:tsc="http://www.techsmith.com/xmp/tsc/">\
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/" xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:tscDM="http://www.techsmith.com/xmp/tscDM/" xmlns:tscIQ="http://www.techsmith.com/xmp/tscIQ/" xmlns:tscHS="http://www.techsmith.com/xmp/tscHS/" xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#" xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#" xmlns:exif="http://ns.adobe.com/exif/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/">\
+      <rdf:Description dc:date="2019-09-04 02:44:31 PM" dc:source="Camtasia,18.0.1,enu" dc:title="Working_offline_2" tscDM:firstFrame="Working_offline_2_First_Frame.png" tscDM:originId="DB736C10-C21A-459E-9B43-456BBA3039C1" tscDM:project="Working_offline_2_3">\
+         <xmpDM:duration xmpDM:scale="1/1000" xmpDM:value="436433"/>\
+         <xmpDM:videoFrameSize stDim:unit="pixel" stDim:h="720" stDim:w="1280"/>\
+         <tsc:langName>\
+            <rdf:Bag>\
+               <rdf:li xml:lang="en-US">English</rdf:li></rdf:Bag>\
+         </tsc:langName>\
+         <xmpDM:Tracks>\
+            <rdf:Bag>\
+               <rdf:li>\
+                  <rdf:Description xmpDM:trackType="Quiz" xmpDM:frameRate="f1000" xmpDM:trackName="Quiz" tscIQ:quizGuid="1717B7D9-3423-4300-A197-C8E9B649BE2E" tscIQ:authoredEmail="HA/wHWdQRNXXigzmX42jlrnx0DVkncNdGqA9xsYiNzhGM03bxsfrYsOL/K7+aXqHhL8LrMGWewUt\
+VZk5Nk+3DjqYQ8SECe+svijTc0BdeQIV1rAe6ST0YxiAtJ9FdeYJQUQAgEY+jarm/VtXL1KsZtTX\
+Zy8C6HVvYUYLvhNKUt8I7W5E8fb6rm38u/gib1Dlli1HeecYs6BKRfiTKrA0YE6R4seEu5vu/2b1\
+PEY5HJu4yL/pqB3OjHfBfs5Mq2DXPpp4edftvRetvetCuB8wpYhWMFmb5KVjqL1kA3dadKMczO9v\
+c55zRJmJ40dm/oapNmisORSvgIcaNY0fZhiS3Q==" tscIQ:requireUserId="1" tscIQ:locale="en-US" tscIQ:reportMethod="API" tscIQ:allowSkipQuiz="0" tscIQ:clientId="0E45EC2A-7CCA-4294-84CE-CB0980980952" tscIQ:hideReplay="0" tscIQ:quizHash="1e2f4009b4c49db9dfb343c842334578">\
+                     <xmpDM:markers>\
+                        <rdf:Seq>\
+                           <rdf:li><rdf:Description xmpDM:startTime="428000" tscIQ:feedback="1" tscIQ:questionSetName="Quiz 1"><tscIQ:questions><rdf:Seq><rdf:li><rdf:Description tscIQ:type="SHORT" tscIQ:id="0"><tscIQ:question>Please enter your name:</tscIQ:question><tscIQ:correctAnswer/><tscIQ:answerArray/></rdf:Description></rdf:li><rdf:li><rdf:Description tscIQ:type="MC" tscIQ:id="1"><tscIQ:question>After opening the Autosave App center, what\'s the first thing you should always do?</tscIQ:question><tscIQ:correctAnswer>1</tscIQ:correctAnswer><tscIQ:answerArray><rdf:Seq><rdf:li><rdf:Description tscIQ:orderId="0"><tscIQ:answer>Run the synchronizer</tscIQ:answer></rdf:Description></rdf:li><rdf:li><rdf:Description tscIQ:orderId="1"><tscIQ:answer>Run the program manager</tscIQ:answer></rdf:Description></rdf:li><rdf:li><rdf:Description tscIQ:orderId="2"><tscIQ:answer>Run the log viewer</tscIQ:answer></rdf:Description></rdf:li><rdf:li><rdf:Description tscIQ:orderId="3"><tscIQ:answer>Contemplate your life choices</tscIQ:answer></rdf:Description></rdf:li></rdf:Seq></tscIQ:answerArray></rdf:Description></rdf:li><rdf:li><rdf:Description tscIQ:type="MC" tscIQ:id="2"><tscIQ:question>What is generally better to do in the program manager for the sake of productivity?</tscIQ:question><tscIQ:correctAnswer>1</tscIQ:correctAnswer><tscIQ:answerArray><rdf:Seq><rdf:li><rdf:Description tscIQ:orderId="0"><tscIQ:answer>Download only the files you\'re planning on working on offline</tscIQ:answer></rdf:Description></rdf:li><rdf:li><rdf:Description tscIQ:orderId="1"><tscIQ:answer>Download the entire file structure</tscIQ:answer></rdf:Description></rdf:li></rdf:Seq></tscIQ:answerArray><tscIQ:feedback><rdf:Bag><rdf:li><rdf:Description tscIQ:reason="correct"><xmpDM:name><rdf:Alt><rdf:li>downloading as little as possible will make the sync process lightning fast and minimize the time spent within the program</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description tscIQ:reason="incorrect"><xmpDM:name><rdf:Alt><rdf:li>While it can be useful to be prepared, downloading the entire file structure can make the sync process take hours to complete, resulting in a heavy loss in productivity.</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li></rdf:Bag></tscIQ:feedback></rdf:Description></rdf:li><rdf:li><rdf:Description tscIQ:type="MC" tscIQ:id="3"><tscIQ:question>If the synchronizer encounters a conflict while you\'re uploading changes, and you\'re not certain the last person to upload has made any pertinent changes, what should you do?</tscIQ:question><tscIQ:correctAnswer>1</tscIQ:correctAnswer><tscIQ:answerArray><rdf:Seq><rdf:li><rdf:Description tscIQ:orderId="0"><tscIQ:answer>Get into contact with the person who last made a change to the file, and discuss which file should be the most recent revision</tscIQ:answer></rdf:Description></rdf:li><rdf:li><rdf:Description tscIQ:orderId="1"><tscIQ:answer>Upload your change, overwriting the previous change made by the other person </tscIQ:answer></rdf:Description></rdf:li><rdf:li><rdf:Description tscIQ:orderId="2"><tscIQ:answer>Abandon your change and download the other person\'s change, overwriting your offline work</tscIQ:answer></rdf:Description></rdf:li></rdf:Seq></tscIQ:answerArray></rdf:Description></rdf:li></rdf:Seq></tscIQ:questions></rdf:Description></rdf:li></rdf:Seq>\
+                     </xmpDM:markers>\
+                     <tscIQ:QuizParams><rdf:Bag><rdf:li xmpDM:name="txtPrev" xmpDM:value="Previous"/><rdf:li xmpDM:name="txtNext" xmpDM:value="Next"/><rdf:li xmpDM:name="txtAnswerQuestion" xmpDM:value="Take Quiz Now"/><rdf:li xmpDM:name="txtSubmit" xmpDM:value="Submit Answers"/><rdf:li xmpDM:name="txtReview" xmpDM:value="Replay Last Section"/><rdf:li xmpDM:name="txtReviewAnswer" xmpDM:value="View Answers"/><rdf:li xmpDM:name="txtContinue" xmpDM:value="Continue"/></rdf:Bag></tscIQ:QuizParams></rdf:Description>\
+               </rdf:li>\
+            </rdf:Bag>\
+         </xmpDM:Tracks>\
+         <tscDM:controller>\
+            <rdf:Description xmpDM:name="tscplayer">\
+               <tscDM:parameters>\
+                  <rdf:Bag>\
+                     <rdf:li xmpDM:name="autohide" xmpDM:value="true"/><rdf:li xmpDM:name="autoplay" xmpDM:value="false"/><rdf:li xmpDM:name="loop" xmpDM:value="false"/><rdf:li xmpDM:name="searchable" xmpDM:value="true"/><rdf:li xmpDM:name="captionsenabled" xmpDM:value="false"/><rdf:li xmpDM:name="sidebarenabled" xmpDM:value="false"/><rdf:li xmpDM:name="unicodeenabled" xmpDM:value="false"/><rdf:li xmpDM:name="backgroundcolor" xmpDM:value="000000"/><rdf:li xmpDM:name="sidebarlocation" xmpDM:value="left"/><rdf:li xmpDM:name="endaction" xmpDM:value="stop"/><rdf:li xmpDM:name="endactionparam" xmpDM:value="true"/><rdf:li xmpDM:name="locale" xmpDM:value="en-US"/></rdf:Bag>\
+               </tscDM:parameters>\
+               <tscDM:controllerText>\
+                  <rdf:Bag>\
+                  </rdf:Bag>\
+               </tscDM:controllerText>\
+            </rdf:Description>\
+         </tscDM:controller>\
+         <tscDM:contentList>\
+            <rdf:Description>\
+               <tscDM:files>\
+                  <rdf:Seq>\
+                     <rdf:li xmpDM:name="0" xmpDM:value="Working_offline_2.mp4"/><rdf:li xmpDM:name="1" xmpDM:value="Working_offline_2_First_Frame.png"/><rdf:li xmpDM:name="2" xmpDM:value="Working_offline_2_Thumbnails.png"/></rdf:Seq>\
+               </tscDM:files>\
+            </rdf:Description>\
+         </tscDM:contentList>\
+      </rdf:Description>\
+   </rdf:RDF>\
+</x:xmpmeta>';
